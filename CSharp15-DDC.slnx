@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Demos/Demos.csproj" />
+    <Project Path="src/LegacyLib/LegacyLib.csproj" />
+    <Project Path="src/MemorySafety/MemorySafety.csproj" />
+  </Folder>
+</Solution>
