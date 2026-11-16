@@ -6,6 +6,8 @@ Everything uses a small cinema-ticketing domain.
 ## Requirements
 - .NET 11 SDK (11.0.100 or later; pinned via `global.json`)
 
+See [docs/RunSheet.md](docs/RunSheet.md) for the session timeline and demo script.
+
 ## Run
 ```bash
 dotnet run --project src/Demos          # menu
