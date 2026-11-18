@@ -7,6 +7,7 @@ Everything uses a small cinema-ticketing domain.
 - .NET 11 SDK (11.0.100 or later; pinned via `global.json`)
 
 See [docs/RunSheet.md](docs/RunSheet.md) for the session timeline and demo script.
+The slide deck is in [docs/WhatsNewInCSharp15-DDC2026.pptx](docs/WhatsNewInCSharp15-DDC2026.pptx). It uses the Space Grotesk, Inter and JetBrains Mono fonts.
 
 ## Run
 ```bash
